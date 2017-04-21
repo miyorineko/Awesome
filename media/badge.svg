@@ -1,0 +1,40 @@
+﻿<svg width="92" height="20.000000000000004" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>badgezh</title>
+ <defs>
+  <linearGradient y2="100%" x2="0" id="b">
+   <stop stop-opacity="0.1" stop-color="#bbb" offset="0"/>
+   <stop stop-opacity="0.1" offset="1"/>
+  </linearGradient>
+  <symbol id="svg_12" viewBox="0 0 512 512" width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <clipPath id="svg_11">
+     <path d="m0,0l496.059998,0l0,496.059998l-496.059998,0l0,-496.059998z" fill-opacity="0.67"/>
+    </clipPath>
+   </defs>
+   <g stroke-width="1pt" transform="scale(1.0321)" clip-path="url(#svg_11)" fill-rule="evenodd">
+    <path d="m0,0l744.090027,0l0,496.059998l-744.090027,0l0,-496.059998z" fill="#de2110"/>
+    <path d="m0,0l373.690002,0l0,248.029999l-373.690002,0l0,-248.029999z" fill="#08399c"/>
+    <path d="m273.324005,173.001007l-45.860001,-9.429993l9.769989,45.789993l-35.009979,-31.089996l-14.440002,44.539993l-14.770004,-44.439987l-34.770004,31.359985l9.430008,-45.859985l-45.790001,9.759995l31.090004,-35l-44.539017,-14.440002l44.430008,-14.769997l-31.350006,-34.773003l45.860001,9.427002l-9.759995,-45.792004l35,31.095005l14.439987,-44.540003l14.770004,44.432001l34.77002,-31.354l-9.430023,45.862995l45.790024,-9.766998l-31.090012,35.010002l44.539993,14.43l-44.429993,14.770004l31.348999,34.778992z" fill="#fff"/>
+    <path d="m231.044998,169.479996l-14.470001,7.684006l-14.117004,8.339996l-16.390991,-0.563995l-16.391998,0.190994l-13.914001,-8.662994l-14.298004,-8.016998l-7.705994,-14.442001l-8.362007,-14.069016l0.556,-16.347l-0.181999,-16.357986l8.686005,-13.874001l8.039001,-14.258003l14.470001,-7.686996l14.116989,-8.34l16.391006,0.562l16.401993,-0.186001l13.914001,8.659992l14.28801,8.017998l7.705994,14.438004l8.362,14.069l-0.556,16.347l0.182007,16.358002l-8.686005,13.876999l-8.039001,14.261002z" fill="#005387"/>
+    <path fill="#fff" d="m237.028,124.291c0,27.753998 -22.498993,50.253006 -50.253006,50.253006s-50.252991,-22.499008 -50.252991,-50.253006s22.5,-50.252998 50.252991,-50.252998s50.253006,22.5 50.253006,50.252998z"/>
+   </g>
+  </symbol>
+ </defs>
+ <mask id="a">
+  <rect id="svg_1" fill="#fff" rx="3" height="20" width="92"/>
+ </mask>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2" mask="url(#a)">
+   <path id="svg_4" d="m19.829861,0l72.170139,0l0,20l-72.170139,0l0,-20z" fill="#555"/>
+   <path id="svg_5" d="m0,0l92,0l0,20l-92,0l0,-20z" fill="url(#b)"/>
+   <path id="svg_3" d="m0,0l19.284855,0l0,20l-19.284855,0l0,-20z" fill="#555"/>
+   <use x="0" y="0" transform="matrix(0.0391973, 0, 0, 0.0391973, 0.377137, 0.377137)" xlink:href="#svg_12" id="svg_13"/>
+   <g id="svg_14"/>
+  </g>
+  <g id="svg_6" font-size="11" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" text-anchor="middle" fill="#fff">
+   <text xml:space="preserve" text-anchor="middle" font-family="null" font-size="null" id="svg_16" y="14.356529" x="55.029409" fill-opacity="0.3" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#010101">正體中文</text>
+   <text id="svg_17" xml:space="preserve" text-anchor="middle" font-family="null" font-size="null" y="13.540192" x="54.992917" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#ffffff">正體中文</text>
+  </g>
+ </g>
+</svg>
